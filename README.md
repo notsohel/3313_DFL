@@ -17,7 +17,7 @@ DFL-Colab uses DeepFaceLab and to understand the workflow, you should first unde
 - **Youtube channel**: [Link](https://www.youtube.com/channel/UCTKBl8kB6DJ_qLnk1NGDGbQ)
 
 **Community support**
-- **Telegram Chat** (English/Russian): [Link](https://t.me/DeepFaceLab_official)
+- **Telegram Chat** (English/Russian): [Link](https://t.me/joinchat/ElkhqlgJ0I5HhdJyFar80w)
 - **MrDeepFakes Forum**: [Link](https://mrdeepfakes.com/forums/)
 - **MrDeepFakes DFL-Colab Guide**: [Link](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial)
 - **MrDeepFakes DeepFaceLab Guide**: [Link](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-explained-and-tutorials)
